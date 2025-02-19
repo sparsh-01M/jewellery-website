@@ -101,31 +101,9 @@ To get started with Shofy, follow these steps:
 
 [Shofy Client Side Live Link](https://shofy-jewelry-ecommerce.vercel.app)
 
-## Server Side Live Link
-
-[Shofy Server Side Live Link](https://shofy-backend.vercel.app)
-
 ## Client Side Repo
 
 [Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-client.git)
-
-## Server Side Repo
-
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-backend.git)
-
-## Sources and Credits
-
-- Twitter Bootstrap
-- Swiper Slider
-- Google Fonts
-- Free Font Awesome Icons by Fontawesome
-
-## Thank You for Choosing Shofy!
-
-We hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
-
- any issues or have any questions, please feel free to reach out to our support team at swe.hamedhasan@gmail.com. Happy selling!
-
 
 
 
