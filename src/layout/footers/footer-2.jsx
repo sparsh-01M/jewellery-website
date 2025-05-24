@@ -25,7 +25,7 @@ const FooterTwo = () => {
                     <div className="tp-footer-widget-content">
                       <div className="tp-footer-talk mb-20">
                         <span>Got Questions? Call us</span>
-                        <h4><a href="tel:670-413-90-762">+670 413 90 762</a></h4>
+                        <h4><a href="tel:670-413-90-762">+91 8077534280</a></h4>
                       </div>
                       <div className="tp-footer-contact">
                         <div className="tp-footer-contact-item d-flex align-items-start">
@@ -35,7 +35,7 @@ const FooterTwo = () => {
                             </span>
                           </div>
                           <div className="tp-footer-contact-content">
-                            <p><a href="mailto:shofy@support.com">swe.hamedhasan@gmail.com</a></p>
+                            <p><a href="mailto:shofy@support.com">singhalsparshu9876@gmail.com</a></p>
                           </div>
                         </div>
                         <div className="tp-footer-contact-item d-flex align-items-start">
